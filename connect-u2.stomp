@@ -1,0 +1,6 @@
+CONNECT
+accept-version:1.2
+host:localhost
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIyMjIyMjIyMi0yMjIyLTIyMjItMjIyMi0yMjIyMjIyMjIyMjEiLCJ0eXAiOiJBQ0NFU1MiLCJpYXQiOjE3NTc1NzkyODUsImV4cCI6MTc1NzU4MTA4NX0.erUMIUZevJ7Ne3u9n0SZhXFb2PpaQcFU9odatKLCGyw
+heart-beat:10000,10000
+
